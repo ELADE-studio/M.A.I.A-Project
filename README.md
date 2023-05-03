@@ -5,10 +5,10 @@
 ## INTRODUCTION
 
 MAIA for Massive Artificial Intelligence is a vocal assistant that helps you in several tasks. Specialized in enginering and coding, it can easily discuss with you. Based on JARVIS or FRIDAY, MAIA will really helps you in boring stuff like reminds you your planning, errors when working, or accelarate your workflow.
-
 ## BASICS
 
-## HOW TO GET MAIA
+## NEED HELP ?
+Look our Wiki page .
 
 ## HELP US TO IMPROVE MAIA
 
