@@ -17,7 +17,7 @@ Dear frontend contributors, here is some rules to respect:
 * Respect the style.
 * Respect the framework and/or layout
 
-If you want to add some new page, watch out our website architecture on the [draw.io](architecture.dra.io) file. You'll need to install the [draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio "draw.io extension on marketplace") extension to use it correctly.
+If you want to add some new page, watch out our website architecture on the [draw.io](architecture.drawio) file. You'll need to install the [draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio "draw.io extension on marketplace") extension to use it correctly.
 ### BACKEND
 Dear backend contributors, don't be mad! You have a lot of work.
 
