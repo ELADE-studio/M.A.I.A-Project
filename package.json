@@ -1,7 +1,7 @@
 {
-  "name": "eikon-parcel-starter",
-  "version": "1.0.0",
-  "description": "Web projects starterkit for eikon studenrs",
+  "name": "MAIA",
+  "version": "0.2.0",
+  "description": "A vocal assistant for coding, enginering based on GPT-3.5",
   "scripts": {
     "clean:output": "rimraf dist",
     "dev": "parcel src/index.html",
@@ -28,6 +28,7 @@
     }
   },
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
     "parcel": "^2.6.2",
     "parcel-namer-rewrite": "^2.0.0-rc.2",
     "posthtml-include": "^1.7.1",
