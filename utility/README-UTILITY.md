@@ -1,14 +1,14 @@
 # M.A.I.A UTILITY
 ### SUMMARY
-[INTRODUCTION](#introduction "Goto INTRODUCTION")
-[BASICS](#basics "Goto BASICS")
-[NEED HELP ?](#need-help "Goto NEED HELP?")
-[CONTACT](#contact "Goto CONTACT")
+* [INTRODUCTION](#introduction "Goto INTRODUCTION")
+* [BASICS](#basics "Goto BASICS")
+* [NEED HELP ?](#need-help "Goto NEED HELP?")
+* [CONTACT](#contact "Goto CONTACT")
 ## INTRODUCTION
 Here you can find everything you need for help us to upgrade MAIA.
 ## BASICS
-[FRONTEND](#frontend "Goto FRONTEND")
-[BACKEND](#backend "Goto BACKEND")
+* [FRONTEND](#frontend "Goto FRONTEND")
+* [BACKEND](#backend "Goto BACKEND")
 ### FRONTEND
 Dear frontend contributors, here is some rules to respect:
 
