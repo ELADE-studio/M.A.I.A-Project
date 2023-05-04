@@ -1,19 +1,54 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&display=swap');
+/* ====================================
+// css variables
+// ==================================== */
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&display=swap");
 
 :root {
   --color-main: #f9f5eb;
   --color-second: #131313;
   --color-enhanced: #f45252;
-  --font-main: 'Space Grotesk', sans-serif;
+  --font-main: "Space Grotesk", sans-serif;
 }
+/* ====================================
+// reset rules
+// ==================================== */
 
 * {
-  padding: 0;
-  margin: 0;
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
   font-family: var(--font-main);
   color: var(--color-second);
 }
+
+html {
+  font-size: 16px;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  scroll-behavior: smooth;
+
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+a {
+  color: inherit;
+}
+
+img,
+video {
+  max-inline-size: 100%;
+  block-size: auto;
+  vertical-align: middle;
+}
+
+/* ====================================
+// base rules
+// ==================================== */
 
 body {
   height: 100vh;
@@ -63,7 +98,7 @@ header {
 }
 
 .writting {
-  animation: entrance .3s cubic-bezier(0.23, 0.19, 0.3, 0.99) 1;
+  animation: entrance 0.3s cubic-bezier(0.23, 0.19, 0.3, 0.99) 1;
   opacity: 1;
   position: static;
 }
