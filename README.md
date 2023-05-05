@@ -1,4 +1,4 @@
-# M.A.I.A
+# ![logo of MAIA](src/img/maia-logo.svg)
 * [INTRODUCTION](#introduction "Goto INTRODUCTION")
 * [BASICS](#basics "Goto BASICS")
 * [NEED HELP ?](#need-help "Goto NEED HELP?")
